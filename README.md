@@ -1,0 +1,2 @@
+# Employee-Management-System
+ This project is an Object-Oriented application designed to manage employee details at the Colombo Institute of Studies. It includes features for department and designation management, employee allocation, and search functionalities. Utilizing OOP principles like inheritance, encapsulation, and polymorphism, the system efficiently stores and retrieves data from a file, ensuring effective HR management and user access control.
